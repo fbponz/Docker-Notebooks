@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+<car>
+    <id>1111CXY</id>
+    <Car_Model>Opel</Car_Model>
+    <Color>Red</Color>
+    <Year>2014</Year>
+    <OwnerName>Jacinto Rodriguez</OwnerName>
+    <OwnerAddress> Av. Taronjers 10</OwnerAddress>
+    <OwnerPhone>7777777777</OwnerPhone>
+</car>
+<car>
+    <id>0000DDD</id>
+    <Car_Model>BMW</Car_Model>
+    <Color>Blue</Color>
+    <Year>2010</Year>
+    <OwnerName>Alicia Garcia</OwnerName>
+    <OwnerAddress> C/ Color9</OwnerAddress>
+    <OwnerPhone>1111111</OwnerPhone>
+</car>
+</table>
