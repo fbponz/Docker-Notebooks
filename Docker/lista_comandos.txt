@@ -1,0 +1,7 @@
+touch index.html
+vi index.html
+vi Dockerfile
+docker build -t fourth_edem_img .
+docker images
+docker run -itd --name cont_fourth_edem -p 8080:80 fourth_edem_img
+docker ps -a
