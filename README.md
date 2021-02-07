@@ -3,7 +3,7 @@
 
 ### Master en Data Analytics para la Empresa
 
-#### Asignatura Fundamentos
+#### Asignatura Fundamentos bases de datos, sql, linux
 
 ##### 1.1) Docker
   En la carpeta docker, se encuentra un ejemplo de como crear una imagen de docker, utilizando una fichero Dockerfile.
